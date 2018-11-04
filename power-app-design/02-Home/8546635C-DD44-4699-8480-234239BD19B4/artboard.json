@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C1A37425-B5E0-47E7-A8FA-29B62D2194D7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8546635C-DD44-4699-8480-234239BD19B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13156A97-FFC6-4055-B4FE-793C4DB220FC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83F11D0F-A889-4640-8373-316CC34A340D",
+    "height": 800,
+    "width": 1440,
+    "x": -765,
+    "y": -653
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A6029E7B-F772-4EF9-83D7-692D01788370",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "228F2A6A-D236-4D2C-B6B3-0C1466A82AF7"
+    },
+    {
+      "class": "text",
+      "id": "7606BB3E-4E4B-4D09-AC41-F90D4B089567"
+    },
+    {
+      "class": "group",
+      "id": "455A3907-56E0-4F0E-A7E2-DF3B9F9256A9"
+    },
+    {
+      "class": "text",
+      "id": "D9F6F156-0062-4A09-868D-7A1426537757"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A7FD00A-B534-4890-BD56-99E50F30601E"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E09A84E-AB56-4620-B730-5D7F89FB63E8"
+    },
+    {
+      "class": "text",
+      "id": "D88BC3D2-7187-4105-A02A-501654327694"
+    },
+    {
+      "class": "group",
+      "id": "1E069116-AA7B-443F-98BB-CB229CDFCB87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC4DC8EC-3B75-4A54-903F-4989E2977306"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A77EABB-E36A-4A0D-A162-0B93586A934B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AD3AF95-409F-4519-B0E4-5E77B306DD5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAA5E16D-DBDE-4AD7-9691-2233813A5AB4"
+    },
+    {
+      "class": "rectangle",
+      "id": "9D92968F-1369-45C4-950D-A7E51760BD34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D288D57D-C012-4B07-8A72-024AF19AB7DE"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 67.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": true,
+    "horizontalOffset": 170,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1100
+  },
+  "name": "02-A-1-Home-No Group",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 30,
+    "name": "Touch Bar",
+    "offersLandscapeVariant": 0,
+    "width": 1085
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EEE9F1C-D6E8-412C-9D29-D4CBA07E53E4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8DB7E43F-E61F-40E1-BCE5-DAD0DCD59045",
+    "guides": [
+    ]
+  }
+}

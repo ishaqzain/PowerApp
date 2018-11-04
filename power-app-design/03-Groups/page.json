@@ -1,0 +1,122 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99A2DC29-5750-4E52-B7DC-4D7E77A7E3FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -468,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A7EA0507-76C4-4612-B4A2-2C5BAAA56DEC"
+    },
+    {
+      "class": "artboard",
+      "id": "79345DD8-268A-4A1B-9877-901AB470B9E1"
+    },
+    {
+      "class": "artboard",
+      "id": "2DE106A1-D6C8-4141-BE4E-A98A30A02691"
+    },
+    {
+      "class": "artboard",
+      "id": "D766752C-2C04-4F9E-A064-986CC81A2FC3"
+    },
+    {
+      "class": "artboard",
+      "id": "6E45F7C9-1619-495E-8B2B-6050A91123AB"
+    },
+    {
+      "class": "artboard",
+      "id": "F4992B67-FFEF-4DF8-BD21-0521865BFA13"
+    },
+    {
+      "class": "artboard",
+      "id": "D453CA7F-9F69-4396-AC60-276610E98803"
+    },
+    {
+      "class": "artboard",
+      "id": "B70F7FCC-BAA5-4B75-8238-FAA0B4599C6B"
+    },
+    {
+      "class": "artboard",
+      "id": "E987AE73-A46E-4CA5-9741-723A71DB5B92"
+    },
+    {
+      "class": "artboard",
+      "id": "72A83197-3CF0-48DD-AB81-F0FF87C0FAEF"
+    },
+    {
+      "class": "artboard",
+      "id": "89229ED4-6AE2-4E29-A543-5A2E80A611AA"
+    },
+    {
+      "class": "artboard",
+      "id": "DE275CA8-0789-4E83-85A8-3D4C033053E3"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 58,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 160,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "03-Groups",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -389,
+    "guides": [
+    ]
+  }
+}
