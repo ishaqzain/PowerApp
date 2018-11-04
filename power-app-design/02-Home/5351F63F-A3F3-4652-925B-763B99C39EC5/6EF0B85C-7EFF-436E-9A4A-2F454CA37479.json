@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6EF0B85C-7EFF-436E-9A4A-2F454CA37479",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC963CF9-CB04-4011-BB43-646C2E73790C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE0D0E45-7459-4697-8FE0-CC0F430978EF",
+    "height": 36,
+    "width": 155,
+    "x": 312,
+    "y": 569
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Button / Auto / Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98537EF4-EFA0-4E03-91E7-F2619BBD218A",
+      "overrideName": "BE134FE7-DEFC-47F0-A646-2D4FF2AE9F17_stringValue",
+      "value": "Change Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA9A8410-FC28-4BD6-90C6-44AC9E79AA3D",
+      "overrideName": "32113AB9-C7FF-4F91-B86F-48935BF6C779_stringValue",
+      "value": "Change Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A6121EC-F5AB-45E4-B57A-A438730F2F20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4022D5B-DB8A-404B-A230-15ECA9264354",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

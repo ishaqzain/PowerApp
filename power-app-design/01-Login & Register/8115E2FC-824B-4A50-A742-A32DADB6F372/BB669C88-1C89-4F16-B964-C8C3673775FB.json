@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB669C88-1C89-4F16-B964-C8C3673775FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4A24B5C-6510-4688-9127-4D4525880EB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5640F74F-D8B1-4B3E-98DB-27C149E04661",
+    "height": 36,
+    "width": 123,
+    "x": 538,
+    "y": 544
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Element / Button / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B68C8124-FA93-4303-8FB0-C6B2BEC3FDFA",
+      "overrideName": "2D19E2EF-8C5E-4727-8442-ED1FACFE980E_stringValue",
+      "value": "Sign In"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "485065C8-2464-4B50-827E-A455A6D301B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "472CD1ED-6721-4886-B2C2-8094E122F12C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

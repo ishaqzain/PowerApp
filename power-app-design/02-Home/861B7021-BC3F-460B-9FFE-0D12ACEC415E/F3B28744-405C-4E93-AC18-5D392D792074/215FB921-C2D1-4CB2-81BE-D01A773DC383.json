@@ -1,0 +1,154 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6078431372549019,
+            "green": 0.596078431372549,
+            "red": 0.596078431372549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Heebo-Medium",
+              "size": 11
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0.300000011920929,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
+        },
+        "length": 16,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6078431372549019,
+            "green": 0.596078431372549,
+            "red": 0.596078431372549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Heebo-Medium",
+              "size": 11
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
+        },
+        "length": 1,
+        "location": 16
+      }
+    ],
+    "string": "Short Description"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "215FB921-C2D1-4CB2-81BE-D01A773DC383",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27B3B5C9-8FB9-490E-8D7C-F2575E634269",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6C10F1C-FBA8-42E6-A1FE-95CC301BFAAC",
+    "height": 17,
+    "width": 113,
+    "x": 32,
+    "y": 236
+  },
+  "glyphBounds": "{{0, 4}, {112, 9}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Short Description",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36AD0D1C-A2A6-45DD-887F-809F61F0F7A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "FE33453E-6514-457F-9846-C612FDF0D523",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6078431372549019,
+          "green": 0.596078431372549,
+          "red": 0.596078431372549
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Heebo-Medium",
+            "size": 11
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0.300000011920929,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

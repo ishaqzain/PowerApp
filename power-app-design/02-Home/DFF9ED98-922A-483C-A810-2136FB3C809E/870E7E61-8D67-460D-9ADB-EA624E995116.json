@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "870E7E61-8D67-460D-9ADB-EA624E995116",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7AED8FD-C400-4210-88F3-1ED9EB36036D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98874A34-F121-4519-B39E-7CC51D7EA616",
+    "height": 16,
+    "width": 16,
+    "x": 32,
+    "y": 209
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Solid/bell",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8905A72E-E4B9-4EAC-94F1-C5D655E40C4D",
+      "overrideName": "E7D78B72-A4E8-45BC-B2BB-62FA06C0445A/EC3AF79A-3C8F-4786-B869-9A2750B13BB5_layerStyle",
+      "value": "5E919877-A4C1-45B1-BBC1-B500608C7D02"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.6666666666666666,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C336BFC7-D1AC-4308-BAA3-85FBFEC6E761",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666666,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0C1300B0-6A07-492D-88CD-5FB9E9234E12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "472E942A-0169-4BED-A5AD-89CD78F42A8F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

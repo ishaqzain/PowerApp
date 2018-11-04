@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "905CFAF4-0F94-43A1-8E3F-AAFF2BE33120",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "069D561E-A372-45D9-BCC3-AD385A7E18AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E29CC09-2A34-4FEA-8971-56701ED933DB",
+    "height": 36,
+    "width": 170,
+    "x": 538,
+    "y": 576
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Element / Button / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BA8B4C2-E49F-405D-9F72-C36809F4E1E0",
+      "overrideName": "32113AB9-C7FF-4F91-B86F-48935BF6C779_stringValue",
+      "value": "Create New Account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF021C62-8022-4F5F-BAE1-029EC180DEC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4022D5B-DB8A-404B-A230-15ECA9264354",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

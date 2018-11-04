@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C46FB10-9A58-427E-80B5-8C0C3585A51F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC0712F8-B832-4088-85E7-2C9E628FA9C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7427E858-52D6-47A9-8723-6F2F65C98B2E",
+    "height": 38,
+    "width": 364,
+    "x": 538,
+    "y": 395
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Input Text /Default/ Placeholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F28F786-CED3-445B-BABD-235C848B3FF9",
+      "overrideName": "756CD7CC-D0C3-4C7D-A1FA-D627E83E8608_stringValue",
+      "value": "Email Address"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BD48925-BCE8-4BBA-9ACF-C3C9E81FFDD4",
+      "overrideName": "C1E0D750-5E7E-4FA3-906D-DEAB68672CF4_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F60CC8A9-74FE-47AB-BDC1-B0A4B747A0EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "91E97E71-C59D-4353-B4F9-9DF29F62A0CC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "11718C13-86D2-48A2-8C22-659BCB17E1FD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 25,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE46B32A-A01D-4935-81EB-C4CBE1514DE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2373A77-B3E1-4A2B-BF12-49A31A0CDD31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D5D12A6-8D7C-4B86-9B3B-337C74E49876",
+    "height": 32,
+    "width": 32,
+    "x": 3301,
+    "y": 264
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9DDC8C94-F6F3-482E-94C8-CF89DDD1DF68",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EB8F93CE-9979-41A9-94FD-EC91CE94F964"
+    }
+  ],
+  "name": "🎨 Color / Master-Light",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41A69EFE-C64B-41CA-B2F6-D90E30B7F889",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EAF94323-C98B-4333-84FD-84EEEA3A6084",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1BC6C69B-0D64-4545-AA09-96E2A6F7A2FD",
+    "guides": [
+    ]
+  }
+}

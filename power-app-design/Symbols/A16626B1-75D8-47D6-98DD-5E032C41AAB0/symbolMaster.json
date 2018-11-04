@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "50DD976D-F798-4C2A-9C0C-46C1DBB68204",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 92,
+  "clippingMaskMode": 0,
+  "do_objectID": "A16626B1-75D8-47D6-98DD-5E032C41AAB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "681C25E5-B87E-4B74-9A4E-C7EEBEE9F9BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F61062EA-57D7-4664-B9F2-6811C775E602",
+    "height": 32,
+    "width": 32,
+    "x": 3301,
+    "y": 924
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D8747F6-9E94-43F2-B5D9-7F1F48BE88E3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7C643EC9-6D3A-4D0E-B756-07DD1F98F158"
+    }
+  ],
+  "name": "🎨 Color / White",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A49C19A9-041A-4237-95C0-8181B82CA64C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8955A18B-48B5-4334-A008-8131DA3B8405",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "51152551-50A3-425B-9C9F-A34EA38CC7CB",
+    "guides": [
+    ]
+  }
+}

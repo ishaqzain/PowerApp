@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2216FA34-965C-453B-8DC0-897546F002B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 364,
+    "x": 312,
+    "y": 497
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Input Text /Main/ Placeholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD5EEDD7-0B8C-4275-AA02-228116124C82",
+      "overrideName": "CFA2F43A-3716-46A5-83DC-6A8B2AC92FD1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF238994-E6C1-4A25-A183-BB2C280FDBFB",
+      "overrideName": "C292AA67-72BB-45B9-839B-F51131FBDD8F_stringValue",
+      "value": "New Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A5347EC-0513-437C-934B-67EB54BA461C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

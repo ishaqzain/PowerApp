@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C3B4178-3E56-44F9-99C3-90CA8A6222F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF31999F-6E87-4942-8F8A-1507E8C73BFC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82ECBE9E-CA26-485A-8F4D-6ED6B4F2EC3F",
+    "height": 45,
+    "width": 195,
+    "x": 237,
+    "y": 223
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements / Add Field",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D63AFB6-5279-4DC7-95D0-38FC84A1A1CB",
+      "overrideName": "927BDF3A-A56C-48D0-A942-7B0558A35660_stringValue",
+      "value": "Checkbox"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E81DE646-F99A-4F17-B165-47508FC91A05",
+      "overrideName": "DE717D00-A01D-4E9B-94C8-4867D7B954A6_layerStyle",
+      "value": "5E919877-A4C1-45B1-BBC1-B500608C7D02"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA03B8FE-3285-4C4B-8066-5CBF6ABDC711",
+      "overrideName": "9B5353DC-4DC8-4864-8D5C-2D5BAA6249B2_symbolID",
+      "value": "D8AF74D8-A6F6-4436-9468-36BE4F1ADDA5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B53288A4-C461-4F2C-8DC2-B4F41F580AF4",
+      "overrideName": "9B5353DC-4DC8-4864-8D5C-2D5BAA6249B2/F24769FC-DDE1-4F0C-9467-61DA2D6C346B/EC3AF79A-3C8F-4786-B869-9A2750B13BB5_layerStyle",
+      "value": "DDABA7E2-10AD-4A6E-A525-7B3B691185DF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C190A903-EB20-431B-803B-3853110BB62E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "63718E81-C40E-4AE1-A7E0-61A84DF9D038",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

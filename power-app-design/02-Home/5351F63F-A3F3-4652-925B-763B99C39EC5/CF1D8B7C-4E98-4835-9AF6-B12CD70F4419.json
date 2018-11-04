@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF1D8B7C-4E98-4835-9AF6-B12CD70F4419",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7628E757-1151-4426-98BD-7BC18F1781ED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F246BC5D-5C2E-4A10-85EE-ADA646E9AF78",
+    "height": 36,
+    "width": 216,
+    "x": 32,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Button / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8405651-0297-45C6-AC5C-9194A5CFCBF0",
+      "overrideName": "2D19E2EF-8C5E-4727-8442-ED1FACFE980E_stringValue",
+      "value": "Create a Group"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D8CC9F0-F50D-49E8-8B8C-26439C097B50",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "472CD1ED-6721-4886-B2C2-8094E122F12C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

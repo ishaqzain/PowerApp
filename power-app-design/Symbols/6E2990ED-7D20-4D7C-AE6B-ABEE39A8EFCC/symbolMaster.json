@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 331,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E2990ED-7D20-4D7C-AE6B-ABEE39A8EFCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 364,
+    "x": 573,
+    "y": 1158
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2310AC20-E878-446C-88DB-85B02F93EB83"
+    },
+    {
+      "class": "text",
+      "id": "E9037DE9-C617-403A-8FB7-C55652FEBE33"
+    },
+    {
+      "class": "text",
+      "id": "C292AA67-72BB-45B9-839B-F51131FBDD8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFA2F43A-3716-46A5-83DC-6A8B2AC92FD1"
+    }
+  ],
+  "name": "Form Elements / Input Text /Main/ Placeholder",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A5347EC-0513-437C-934B-67EB54BA461C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

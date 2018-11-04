@@ -1,0 +1,122 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5633769132653061,
+            "green": 0.5152951478220905,
+            "red": 0.5152951478220905
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Heebo-Medium",
+              "size": 12
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 1,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 6,
+        "location": 0
+      }
+    ],
+    "string": "Action"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D35571E9-7E9B-4497-A82E-A872B85B3E45",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F8603B6-95B1-419F-88A4-DA09F82FDABA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96E8F5C2-6B12-4449-B924-370DD92561C0",
+    "height": 18,
+    "width": 44,
+    "x": 1354,
+    "y": 248
+  },
+  "glyphBounds": "{{0, 4}, {43, 10}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Action",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCB79CC9-7E19-450F-8500-05547893B8C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "8DCEFDA5-0145-469E-8C87-6BB127D1E1E4",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5633769132653061,
+          "green": 0.5152951478220905,
+          "red": 0.5152951478220905
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Heebo-Medium",
+            "size": 12
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 1,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8AED687-2FD6-4CAF-9E00-C5C180600180",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 9.953125,
+    "width": 28.015625,
+    "x": 32.0341796875,
+    "y": 19.046875
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AEA46791-9020-43E9-93E2-DBCD96155D75"
+    },
+    {
+      "class": "shapePath",
+      "id": "053B35C6-B5B7-42D8-9BE7-FABD0E91F616"
+    },
+    {
+      "class": "shapePath",
+      "id": "A569E420-9D5C-411C-B6F1-F5A1F0547C69"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2FD61D4-4A00-4B2E-AF96-07C386CEB912"
+    },
+    {
+      "class": "shapePath",
+      "id": "6428BFAC-132E-4745-B2A5-BA18BC5A64C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9124268-37B4-4686-8A1C-BB6D7E502436"
+    }
+  ],
+  "name": "APP",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2156862745098039,
+          "green": 0.196078431372549,
+          "red": 0.196078431372549
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2156862745098039,
+          "green": 0.196078431372549,
+          "red": 0.196078431372549
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Heebo-Bold",
+            "size": 14
+          }
+        },
+        "kerning": 0.5,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 9.953125,
+            "enabled": 1,
+            "modelID": "constraint_b39fadb8-dfd9-4241-b6f4-ca491e78b9ad",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 28.01562
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b6bb3d92-b8a5-4a20-b029-f10c5a498d94",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

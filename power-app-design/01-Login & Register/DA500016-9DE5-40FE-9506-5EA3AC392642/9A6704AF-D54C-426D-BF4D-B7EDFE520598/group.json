@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A6704AF-D54C-426D-BF4D-B7EDFE520598",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE2DE2A8-BE4C-400D-899D-DC60C4D5271A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "46A37DCB-B81D-45C9-B64F-6CC7E7F7298B",
+    "height": 21,
+    "width": 201,
+    "x": 538,
+    "y": 536
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CB2036DA-73CF-439D-8600-7545FABE8CA0"
+    },
+    {
+      "class": "text",
+      "id": "5AABB702-D723-4D45-81BC-48B17247B348"
+    }
+  ],
+  "name": "Form Elements / Checkbox",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "735A5C65-06DB-4861-826F-65C9C5791D63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A2AF6CD-5424-4B28-8FC3-B6CCB0A5B621",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 364,
+    "x": 692,
+    "y": 209
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Input Text /Main/ Fill",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D70A5458-63C7-49B4-A065-59A1AEB5932B",
+      "overrideName": "672CB7D4-6C24-490F-93DC-988BBCAA9E35_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEBD72AE-1783-409A-92D5-8E167E162A45",
+      "overrideName": "875595A3-1C1F-42F2-89B3-407C359BC4C8_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D81A1DE1-2E2D-4DBB-A013-B225359B72F6",
+      "overrideName": "82EB0B26-C7A6-49D7-95EE-40EC5118FD62_stringValue",
+      "value": "john.smith@gmail.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FAA03D0B-0474-48C5-94E2-6075FE97CB36",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

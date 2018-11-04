@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ABA42BCD-2862-4AF2-9A13-35156ECB4230",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A07EF4E-FE5D-4FC1-B0C8-083F17B1AD2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D3F624F-B9BD-4C23-A168-ED1107B0B3C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0F9B45F-002A-4A41-9BF3-A834A9B145FD",
+    "height": 800,
+    "width": 1440,
+    "x": 3722,
+    "y": 610
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "37A38EBA-CB0A-4697-A786-EDC8FE952959",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "25B736DE-9549-4E12-B677-D1A08AF96C0C"
+    },
+    {
+      "class": "group",
+      "id": "02316AD7-C59D-4B19-95B1-77ABF4640571"
+    },
+    {
+      "class": "rectangle",
+      "id": "772D0A61-0236-4D86-9836-BC0164F4CC6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F67BEB1-27DF-4DAD-B14A-395FE0804DBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C46FB10-9A58-427E-80B5-8C0C3585A51F"
+    },
+    {
+      "class": "text",
+      "id": "595AD0AA-5DA9-4E72-B443-0A0BC04AB23C"
+    },
+    {
+      "class": "text",
+      "id": "CA3FFC09-CF86-4D4E-BEA4-C27A3C8CBE26"
+    },
+    {
+      "class": "text",
+      "id": "53E328BF-CACC-464F-8957-62887D316688"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8651FDE8-AF96-4E17-9C84-805CC4EA57C4"
+    }
+  ],
+  "name": "01-B-Forgot-Password",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 30,
+    "name": "Touch Bar",
+    "offersLandscapeVariant": 0,
+    "width": 1085
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "732EFAF0-AC88-44E1-A7B3-C8EC1ABDEA50",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "08A70BBB-45E9-4655-9B70-5302CFD84D5A",
+    "guides": [
+    ]
+  }
+}

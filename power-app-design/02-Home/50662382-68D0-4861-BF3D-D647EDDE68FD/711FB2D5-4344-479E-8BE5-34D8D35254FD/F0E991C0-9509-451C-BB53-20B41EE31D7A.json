@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0E991C0-9509-451C-BB53-20B41EE31D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0EC559C-934F-438A-A289-B2BE7EDB8D0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE3B00C2-43B3-4882-A6E7-E7669F9019F6",
+    "height": 36,
+    "width": 118,
+    "x": 312,
+    "y": 281
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Button / Auto / Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98537EF4-EFA0-4E03-91E7-F2619BBD218A",
+      "overrideName": "BE134FE7-DEFC-47F0-A646-2D4FF2AE9F17_stringValue",
+      "value": "Save Profile"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "242A2C87-96D1-472F-9CA5-D70F8BC8A27F",
+      "overrideName": "32113AB9-C7FF-4F91-B86F-48935BF6C779_stringValue",
+      "value": "Save Profile"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E6D6AEE-1989-4172-9394-4FD01868AB5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4022D5B-DB8A-404B-A230-15ECA9264354",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
