@@ -20,6 +20,7 @@
               "size": 14
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -52,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "6E02E5CD-2C6C-42B2-810C-679D682B16AF",
     "height": 21,
-    "width": 98,
+    "width": 114,
     "x": 480,
-    "y": 378
+    "y": 388
   },
-  "glyphBounds": "{{0, 4}, {97, 12}}",
+  "glyphBounds": "{{0, 4}, {113, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,6 +96,7 @@
             "size": 14
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0

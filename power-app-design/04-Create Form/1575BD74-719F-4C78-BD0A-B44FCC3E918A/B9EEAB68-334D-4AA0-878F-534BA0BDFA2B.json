@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Field Label"
+    "string": "Field Type"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "4E0E4EF1-6046-466A-865D-13767A7B55F2",
     "height": 21,
-    "width": 68,
+    "width": 65,
     "x": 32,
     "y": 167
   },
-  "glyphBounds": "{{0, 4}, {67, 12}}",
+  "glyphBounds": "{{0, 4}, {64, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Field Label",
+  "name": "Field Type",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

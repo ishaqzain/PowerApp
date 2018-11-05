@@ -38,11 +38,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "A71A7D5C-42CB-4CE6-923F-DDB1905EC718"
-    },
-    {
-      "class": "artboard",
-      "id": "96869636-A0EA-4787-9F2C-585B4485F13A"
+      "id": "872DFE0E-C484-480B-AD3E-8D88E7B19301"
     },
     {
       "class": "artboard",
@@ -50,11 +46,15 @@
     },
     {
       "class": "artboard",
-      "id": "872DFE0E-C484-480B-AD3E-8D88E7B19301"
+      "id": "1575BD74-719F-4C78-BD0A-B44FCC3E918A"
     },
     {
       "class": "artboard",
-      "id": "1575BD74-719F-4C78-BD0A-B44FCC3E918A"
+      "id": "96869636-A0EA-4787-9F2C-585B4485F13A"
+    },
+    {
+      "class": "artboard",
+      "id": "A71A7D5C-42CB-4CE6-923F-DDB1905EC718"
     },
     {
       "class": "artboard",

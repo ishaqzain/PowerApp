@@ -27,7 +27,7 @@
     "do_objectID": "1B424BA0-E933-4A58-9279-DC5999EDDDA2",
     "height": 800,
     "width": 1440,
-    "x": 4802,
+    "x": 4652,
     "y": -400
   },
   "hasBackgroundColor": false,
@@ -191,8 +191,16 @@
       "id": "42FA3CD5-924B-41C7-9DB6-54C3815B430D"
     },
     {
+      "class": "group",
+      "id": "35060777-8585-4734-A715-BA23FCC2FB37"
+    },
+    {
       "class": "text",
       "id": "0549DA93-E618-4DF1-B6EB-741CABE4FF89"
+    },
+    {
+      "class": "text",
+      "id": "F1FE80CC-6DB5-432D-92F6-EFDB75A78BBD"
     },
     {
       "class": "text",
