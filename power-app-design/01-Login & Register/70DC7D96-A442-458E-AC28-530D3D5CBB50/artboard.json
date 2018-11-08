@@ -87,8 +87,8 @@
       "id": "FB491B75-D393-4FC7-9D26-9EA0ED298611"
     },
     {
-      "class": "symbolInstance",
-      "id": "699BCEBC-164B-47D4-9D0C-97557E32232C"
+      "class": "group",
+      "id": "21CC772C-B067-4D4D-B008-1CF1647DD8DA"
     }
   ],
   "name": "01-B-Reset-Password",

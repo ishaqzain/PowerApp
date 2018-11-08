@@ -31,7 +31,7 @@
     "y": -440
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,12 +55,12 @@
       "id": "82646F93-F65E-420F-B1FD-639A67781EAC"
     },
     {
-      "class": "group",
-      "id": "23CF8DC5-16DB-49FD-83F6-37F280511876"
+      "class": "bitmap",
+      "id": "74194E59-440A-4B8E-9716-847F49BC8F66"
     },
     {
       "class": "rectangle",
-      "id": "6224C44E-C89E-4337-98D2-CAF10F3CD6D9"
+      "id": "743F5808-C6EF-4235-9DD5-4EC54B34F2EB"
     },
     {
       "class": "text",
@@ -99,8 +99,12 @@
       "id": "39C388F0-C36C-4754-987B-A673048FED68"
     },
     {
-      "class": "symbolInstance",
-      "id": "03E28A2D-F716-4A73-A1FA-9AF89B0067F3"
+      "class": "group",
+      "id": "2300090F-74DA-4846-A573-276D316C5F81"
+    },
+    {
+      "class": "oval",
+      "id": "7048E283-6350-45B2-89BD-85F3A1DC2806"
     }
   ],
   "name": "01-A-Login-Placeholder",

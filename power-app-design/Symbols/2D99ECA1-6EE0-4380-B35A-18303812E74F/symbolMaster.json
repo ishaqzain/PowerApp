@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1078,
+  "changeIdentifier": 1217,
   "clippingMaskMode": 0,
   "do_objectID": "2D99ECA1-6EE0-4380-B35A-18303812E74F",
   "exportOptions": {
@@ -73,8 +73,8 @@
       "id": "748B4A98-1EB7-4FB5-80C6-9BE2786ACE84"
     },
     {
-      "class": "symbolInstance",
-      "id": "D1AB38B9-84C4-42DC-A0E7-C27972DE2424"
+      "class": "group",
+      "id": "8E56BB60-4219-497E-AEF7-989CF2F6CC28"
     }
   ],
   "name": "Pattern / Header",
