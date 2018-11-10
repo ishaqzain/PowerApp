@@ -55,12 +55,12 @@
       "id": "B0D7A144-976A-41BA-8182-820ED3D3EBE6"
     },
     {
-      "class": "group",
-      "id": "CE8DA2B4-FE59-4838-90FB-EE788E6D34CD"
+      "class": "symbolInstance",
+      "id": "A7A9CA8D-9B90-406A-A034-48DC27181BBE"
     },
     {
-      "class": "rectangle",
-      "id": "8EA8793C-B347-42B2-9A31-BB96FAA398C4"
+      "class": "symbolInstance",
+      "id": "28754654-716E-47E6-B371-3F8438BD545A"
     },
     {
       "class": "symbolInstance",
@@ -89,10 +89,6 @@
     {
       "class": "text",
       "id": "53467B2D-B671-4242-8FA4-9FD64CE82F4D"
-    },
-    {
-      "class": "group",
-      "id": "0E75332A-F482-4E67-8FE3-65C3976793E3"
     }
   ],
   "name": "01-C-Form-Join-Group",

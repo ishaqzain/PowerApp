@@ -48,19 +48,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "87C4FF20-6419-4886-B9DB-D4AC3E615454"
     },
     {
-      "class": "group",
-      "id": "DD9122F1-5B95-4CFC-AEAD-D207E19EDA3A"
+      "class": "symbolInstance",
+      "id": "EE0135E7-F34D-41F9-A211-D050436C9E54"
     },
     {
-      "class": "rectangle",
-      "id": "339601D4-70EB-4334-834D-B292481B4C53"
+      "class": "symbolInstance",
+      "id": "C75CFEE1-B5E1-4268-AA90-ECD2BF8C760A"
     },
     {
       "class": "text",
@@ -101,10 +101,6 @@
     {
       "class": "text",
       "id": "6CC2564A-21B5-4061-803D-0AFA0FA1BBE2"
-    },
-    {
-      "class": "group",
-      "id": "AFD691E1-6EC0-4509-872D-099D6FA15D9E"
     }
   ],
   "name": "01-A-Login-Error",

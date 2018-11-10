@@ -55,12 +55,12 @@
       "id": "95F09717-62F1-4B4D-86F4-7247CACB2683"
     },
     {
-      "class": "group",
-      "id": "F9589EBA-54DC-499C-AF3A-6CDA0BECA857"
+      "class": "symbolInstance",
+      "id": "8C9F1703-FF46-4878-BF55-D59AAC4762D2"
     },
     {
-      "class": "rectangle",
-      "id": "D0F59949-1B72-4B9F-A75B-DEBC94CC741E"
+      "class": "symbolInstance",
+      "id": "17FEAF79-411E-4B2F-934F-5DEB90D2EDEC"
     },
     {
       "class": "text",
@@ -97,10 +97,6 @@
     {
       "class": "group",
       "id": "D63BF950-249E-4CEF-A8A6-3AECADA7E25F"
-    },
-    {
-      "class": "group",
-      "id": "BD3D0F97-6BF9-44D1-8F28-B0515CABD7E3"
     }
   ],
   "name": "01-A-Login-Fill Focus",

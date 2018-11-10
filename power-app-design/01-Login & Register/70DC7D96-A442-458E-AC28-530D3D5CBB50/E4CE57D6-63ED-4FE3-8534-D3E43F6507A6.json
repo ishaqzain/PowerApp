@@ -95,7 +95,7 @@
           "red": 0.9185799319727891
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }

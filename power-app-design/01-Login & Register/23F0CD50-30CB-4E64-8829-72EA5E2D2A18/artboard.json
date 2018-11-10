@@ -55,12 +55,12 @@
       "id": "6AA714EC-6379-4736-858A-C5C216778BF6"
     },
     {
-      "class": "group",
-      "id": "3EA1675A-EAB5-4F09-903C-29522F58478E"
+      "class": "symbolInstance",
+      "id": "01D28990-1F08-4C2C-A823-3509412C1A65"
     },
     {
-      "class": "rectangle",
-      "id": "725ED3C8-9D54-4341-AE5E-BA34B378AB29"
+      "class": "symbolInstance",
+      "id": "03EAA9B2-B57D-457D-B1EA-779D6DFB4090"
     },
     {
       "class": "symbolInstance",
@@ -89,10 +89,6 @@
     {
       "class": "text",
       "id": "8F0487F8-1F95-4CD9-BA42-03522E3AECA9"
-    },
-    {
-      "class": "group",
-      "id": "4A09B5A1-0F25-4D16-950F-77E4720AD525"
     }
   ],
   "name": "01-C-Create-Account",

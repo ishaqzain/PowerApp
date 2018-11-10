@@ -95,7 +95,7 @@
           "red": 0.9185799319727891
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
@@ -124,10 +124,10 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 16,
+        "blurRadius": 26,
         "color": {
           "_class": "color",
-          "alpha": 0.09309895833333333,
+          "alpha": 0.2701539855072464,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -139,7 +139,7 @@
         },
         "isEnabled": false,
         "offsetX": 0,
-        "offsetY": 12,
+        "offsetY": 32,
         "spread": 0
       }
     ],

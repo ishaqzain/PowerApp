@@ -48,19 +48,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "82646F93-F65E-420F-B1FD-639A67781EAC"
     },
     {
-      "class": "bitmap",
-      "id": "74194E59-440A-4B8E-9716-847F49BC8F66"
+      "class": "symbolInstance",
+      "id": "2820574C-43E7-41F6-A980-63A16C4BE348"
     },
     {
-      "class": "rectangle",
-      "id": "743F5808-C6EF-4235-9DD5-4EC54B34F2EB"
+      "class": "symbolInstance",
+      "id": "24A15099-C5F6-4F20-92C4-CF4081A9095B"
     },
     {
       "class": "text",
@@ -97,14 +97,6 @@
     {
       "class": "group",
       "id": "39C388F0-C36C-4754-987B-A673048FED68"
-    },
-    {
-      "class": "group",
-      "id": "2300090F-74DA-4846-A573-276D316C5F81"
-    },
-    {
-      "class": "oval",
-      "id": "7048E283-6350-45B2-89BD-85F3A1DC2806"
     }
   ],
   "name": "01-A-Login-Placeholder",

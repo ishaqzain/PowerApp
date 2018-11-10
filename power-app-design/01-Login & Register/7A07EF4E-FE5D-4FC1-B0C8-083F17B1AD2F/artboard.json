@@ -48,15 +48,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "25B736DE-9549-4E12-B677-D1A08AF96C0C"
-    },
-    {
-      "class": "group",
-      "id": "02316AD7-C59D-4B19-95B1-77ABF4640571"
     },
     {
       "class": "rectangle",
