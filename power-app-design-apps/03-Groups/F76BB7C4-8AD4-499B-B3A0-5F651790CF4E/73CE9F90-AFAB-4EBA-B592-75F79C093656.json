@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73CE9F90-AFAB-4EBA-B592-75F79C093656",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4C088BC-5CDC-402E-8F30-1B49F2AFE91D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45A95C25-29B0-46A9-BC95-EB7B0FD5E2A2",
+    "height": 38,
+    "width": 328,
+    "x": 16,
+    "y": 539
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Input Text /Default/ Placeholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A6B37A3-4284-406C-9DA8-4B1F811F31B2",
+      "overrideName": "3FB5C10B-ADB4-43C5-BDB0-FAA986AB6378_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A75611B7-923E-4FA1-B17F-ECC08EB765AA",
+      "overrideName": "E23198D5-E650-4FE0-935B-C5E08B37F4F2_stringValue",
+      "value": "is true"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B63BF8F6-882B-4340-A9AB-E98924C86AB7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D060A29F-7833-4350-AA0F-098D1D107226",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

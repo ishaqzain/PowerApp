@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CF6CDFF6-9FA9-4C8D-BFCA-A08DE7ECB790",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 69,
+  "clippingMaskMode": 0,
+  "do_objectID": "269F0274-4D31-4A96-9A28-8630AA46DF75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C2EDE43-3F7C-4574-A3F2-6DAB394C1E4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58973E7F-32A6-4059-9658-495C8B98EBD1",
+    "height": 32,
+    "width": 32,
+    "x": 3301,
+    "y": 396
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C347D678-FAE0-4D1C-BB79-75DBEA50C4A8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "92359EDB-C1FB-43FD-BD8F-130AA5B85768"
+    }
+  ],
+  "name": "🎨 Color / Master-Super-Dark",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCFEDC3C-8EC2-4EAD-ABC8-B63E683329AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9645FB80-420F-4218-A23F-0B3526F9BC37",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AD8F7653-DDEA-4450-9EB4-554950F1988A",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "46918C17-85BF-47EC-BABD-ECD0B6EE7D29",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 58,
+  "clippingMaskMode": 0,
+  "do_objectID": "BCCDEAFF-3B43-48CC-B533-4B3212024186",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0BF6D67-88F0-4E1C-B7F1-9CA9269A0B01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3195D9B7-82D6-4972-8D89-C2EC8C3FD201",
+    "height": 32,
+    "width": 32,
+    "x": 3301,
+    "y": 132
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E31E6208-86B4-4B27-973E-32ACE16F2C12",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4252425F-3BB0-486D-8097-2C0F6E7EA33A"
+    }
+  ],
+  "name": "🎨 Color / Master-Dark",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3325E634-F29E-4FA0-9BB9-4AD354E7FC79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4FD9537-4546-4999-BCB1-814C57225DFF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "70826CB3-FEEF-41F1-ACCE-53E683E90C00",
+    "guides": [
+    ]
+  }
+}

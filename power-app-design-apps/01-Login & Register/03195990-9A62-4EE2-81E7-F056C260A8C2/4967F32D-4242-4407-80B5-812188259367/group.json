@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4967F32D-4242-4407-80B5-812188259367",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "586678E0-2992-49C8-A6AF-67A5D28FD38D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AAC28822-23E5-445D-899E-E4D50D8ADC8F",
+    "height": 62,
+    "width": 127,
+    "x": 117,
+    "y": 113
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "A071EBEB-BF81-4978-9BD5-2DF48043F561"
+    },
+    {
+      "class": "group",
+      "id": "973749C9-5FB4-4898-9480-D30131FC6B7D"
+    }
+  ],
+  "name": "Power App",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6F059F3A-3452-424A-8FB8-BC7A11926259",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.887823337307553,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "74EBDCDE-2ED0-49AE-8A63-927D3BF910B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

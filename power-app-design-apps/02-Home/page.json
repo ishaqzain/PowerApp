@@ -1,0 +1,130 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB94D7C2-9D8C-46C9-8CC9-1EBCF4A097EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -481,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A7D04418-5200-4AB4-86C7-5D58B373DF29"
+    },
+    {
+      "class": "artboard",
+      "id": "D9F412D0-EB90-4D5A-8BF6-F5448CD2F241"
+    },
+    {
+      "class": "artboard",
+      "id": "E4CD521E-0A80-4679-A31F-60ECCCEEE466"
+    },
+    {
+      "class": "artboard",
+      "id": "712EF41C-FE0C-4617-9CD4-390C540B525F"
+    },
+    {
+      "class": "artboard",
+      "id": "7D895A95-F75D-44E1-AB0C-006596332EF1"
+    },
+    {
+      "class": "artboard",
+      "id": "CE9DE90C-ED08-4B77-916B-D3F19ED72105"
+    },
+    {
+      "class": "artboard",
+      "id": "97A07E51-79F9-482A-8F01-1F0F73E291FA"
+    },
+    {
+      "class": "artboard",
+      "id": "CAFFF682-0A17-44C6-8ED4-14897F47AA43"
+    },
+    {
+      "class": "artboard",
+      "id": "59662FC7-CEEB-474B-A920-6F4F2F42C3FB"
+    },
+    {
+      "class": "artboard",
+      "id": "4D4C315B-206D-47CB-8231-4BEBD8F87E8B"
+    },
+    {
+      "class": "artboard",
+      "id": "95D47FAD-BD31-4688-89C9-B43FDC17560D"
+    },
+    {
+      "class": "artboard",
+      "id": "E9049C17-2184-4260-A624-E199BAC55EEC"
+    },
+    {
+      "class": "artboard",
+      "id": "AB987BF8-76CD-4837-B27D-C2806174D670"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AAF7B2C-9B17-4AEF-945D-E0C052336B92"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 58,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 160,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "02-Home",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -402,
+    "guides": [
+    ]
+  }
+}

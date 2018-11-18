@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D417D960-455C-4F4D-9A10-EDB54F0A97D3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 46,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF9D6C80-DA61-484D-A9BC-E5E3B77A1C84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E79167D-A28A-4B23-8DA9-1471064AA0A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B841BFA-63B4-45F3-885D-8D668E3EBBB8",
+    "height": 32,
+    "width": 32,
+    "x": 3301,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E194685-845B-4F69-9710-E703772A5D21",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C628C8F1-A05A-43C4-8B89-3F28DF03FA8C"
+    }
+  ],
+  "name": "🎨 Color / Master",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52C65EF1-918B-4A71-B560-3A75608DC634",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EA0736C3-0533-4643-8613-F698F76E8628",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CF3D040D-8568-4106-8F4B-882843CC9CD3",
+    "guides": [
+    ]
+  }
+}

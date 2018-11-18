@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F691739-3E5C-4FFD-B93A-2336BFA21468",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34A124B4-4CF1-4652-B267-A5A5E1AED2C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62089E30-D23D-423D-8972-3E612065280C",
+    "height": 36,
+    "width": 73,
+    "x": 32,
+    "y": 14
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Button / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F46C791-6860-4CDF-B925-E41004E78605",
+      "overrideName": "AB8D8D4B-03E5-49E5-89DE-12DDD6A8FBD9_stringValue",
+      "value": "Back"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1502A66-1CF0-44A6-A93D-C896FAFF89A1",
+      "overrideName": "56F1188B-B4D7-40D9-8F49-34903EFC18A9_layerStyle",
+      "value": "5E919877-A4C1-45B1-BBC1-B500608C7D02"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF866F77-DE87-40B2-B301-4E71D8890D42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "55A20327-1235-49DE-B9DB-76DD06E63401",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

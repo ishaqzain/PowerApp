@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2588235294117647,
+    "green": 0.2588235294117647,
+    "red": 0.2588235294117647
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA697718-56B9-45B7-B038-A97BA481F678",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 118,
+    "x": 6541,
+    "y": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DCE890B4-6396-47E9-86DF-8EA9AE091510"
+    },
+    {
+      "class": "group",
+      "id": "420F883B-A53E-4ED3-BB29-ECC7F777EC05"
+    },
+    {
+      "class": "group",
+      "id": "020CDB29-9B95-4915-8B6A-DE43A832D04E"
+    },
+    {
+      "class": "group",
+      "id": "131A25D6-BCA4-45D3-A7F8-F47C1ECE1E8E"
+    }
+  ],
+  "name": "Material/Android/Status bar content light",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "B99E6927-021E-45DC-B685-DA1D14859377",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7027BBEC-36F4-4B3F-B5C6-5FB425D16822",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

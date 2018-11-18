@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77C53B01-5C3C-437A-906A-3725F3AEF6D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6493ACFA-D8BB-49FC-84B1-68301977C84D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D03691B-B258-4F67-8CCD-9FE308E15989",
+    "height": 93,
+    "width": 328,
+    "x": 16,
+    "y": 170
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "19039551-EC4D-4162-B76E-587C527517B1"
+    },
+    {
+      "class": "text",
+      "id": "9C5C94CA-D030-4793-9CE7-C75F8E20B5CE"
+    },
+    {
+      "class": "text",
+      "id": "C960C90D-6BB4-4E68-9691-CCD2F7040650"
+    }
+  ],
+  "name": "Form Element / Input - Placeholder",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8D5BE46-550C-47F1-8177-A611B547B9A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

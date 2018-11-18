@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DDB940DA-32FE-4366-88DD-83EA3F9024C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D684A08C-B416-4F61-B7E2-443C62473C13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DF08FD8E-FCD4-4F0A-8AA9-EB939FBF4636",
+    "height": 24,
+    "width": 24,
+    "x": 16,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "add",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "415CC6A9-3C4F-4684-A650-1FD2CB192436",
+      "overrideName": "66C7C20A-07D3-4BC5-BDF9-3DB6208DEE00_layerStyle",
+      "value": "93A76C3C-9FDD-4A37-93C2-4F3AB92FD7ED"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6ADC439B-845E-49B4-B91A-0D2AF0EC76C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67A4DACC-64C3-46E4-82F9-BC61A86ADAAB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_642aea49-79cb-4f83-8901-c8478c737c23",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5d347d28-729b-42fd-9336-2459dbad191c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
