@@ -59,6 +59,9 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    },
     "io.proto.overflow-test1": {
       "docUUID": "755BF86D-1430-49FA-A850-0F23B1EC299D"
     }

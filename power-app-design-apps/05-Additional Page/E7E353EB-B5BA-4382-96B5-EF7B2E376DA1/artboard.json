@@ -40,7 +40,7 @@
     "y": 650
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -81,11 +81,11 @@
     },
     {
       "class": "text",
-      "id": "A0094276-C381-49EF-ACDC-04D87D1FE2D3"
+      "id": "45AA63B9-5FD3-47A1-B4E3-D90B5EEDFDB0"
     },
     {
-      "class": "text",
-      "id": "45AA63B9-5FD3-47A1-B4E3-D90B5EEDFDB0"
+      "class": "symbolInstance",
+      "id": "6EA7E70A-851E-4A59-9237-C17B0546AC99"
     }
   ],
   "name": "5.1-App-Error-Page",

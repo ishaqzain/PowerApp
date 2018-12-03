@@ -54,15 +54,31 @@
     },
     {
       "class": "artboard",
-      "id": "6E45F7C9-1619-495E-8B2B-6050A91123AB"
+      "id": "C1F7C787-E2C1-44A9-B3FC-4A17715724FC"
     },
     {
       "class": "artboard",
-      "id": "F4992B67-FFEF-4DF8-BD21-0521865BFA13"
+      "id": "B5794F30-6F31-4CBC-A1A3-BF21F52A8755"
     },
     {
       "class": "artboard",
-      "id": "D453CA7F-9F69-4396-AC60-276610E98803"
+      "id": "984F9549-2511-4DED-AE45-21C4B7FAB63D"
+    },
+    {
+      "class": "artboard",
+      "id": "E5A72D8E-DDE9-4006-A19E-CDAB159D0B9D"
+    },
+    {
+      "class": "artboard",
+      "id": "9AE3F047-8435-44C9-BCBD-AEE0A284CDE0"
+    },
+    {
+      "class": "artboard",
+      "id": "9E7A3D88-0E5A-40CF-9FF4-B4CAC6214ADD"
+    },
+    {
+      "class": "artboard",
+      "id": "165A4DFE-6DF6-4F1E-B854-44325B8008F8"
     },
     {
       "class": "artboard",
@@ -70,7 +86,15 @@
     },
     {
       "class": "artboard",
-      "id": "165A4DFE-6DF6-4F1E-B854-44325B8008F8"
+      "id": "D453CA7F-9F69-4396-AC60-276610E98803"
+    },
+    {
+      "class": "artboard",
+      "id": "F4992B67-FFEF-4DF8-BD21-0521865BFA13"
+    },
+    {
+      "class": "artboard",
+      "id": "6E45F7C9-1619-495E-8B2B-6050A91123AB"
     },
     {
       "class": "artboard",
@@ -116,6 +140,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

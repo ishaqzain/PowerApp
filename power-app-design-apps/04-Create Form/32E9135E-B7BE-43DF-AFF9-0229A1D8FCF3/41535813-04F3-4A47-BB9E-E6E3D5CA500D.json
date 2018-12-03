@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41535813-04F3-4A47-BB9E-E6E3D5CA500D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EAA1BF4E-801E-466D-9563-72DE971B4529",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA644E15-4770-4911-B630-BC1948C18CFB",
+    "height": 36,
+    "width": 102,
+    "x": 129,
+    "y": 573
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Button / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "301D6D71-04CD-4227-91E9-67667264BF9C",
+      "overrideName": "2D19E2EF-8C5E-4727-8442-ED1FACFE980E_stringValue",
+      "value": "Duplicate"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56D7BDFD-2780-4D8F-9B13-4961916D3024",
+      "overrideName": "57B76218-C7AF-4D68-8168-443A41C8AE38/31B8D4FD-A044-4226-89F6-1278724C5B90_layerStyle",
+      "value": "D4B6C8C1-90F2-4F43-A81E-1555DE6F7FA8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "885FCC61-52D7-452F-9358-571CD1155A94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "472CD1ED-6721-4886-B2C2-8094E122F12C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

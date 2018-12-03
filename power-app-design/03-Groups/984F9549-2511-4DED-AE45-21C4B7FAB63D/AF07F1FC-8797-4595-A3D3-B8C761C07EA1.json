@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF07F1FC-8797-4595-A3D3-B8C761C07EA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5ECADDEA-C4EE-4F82-8423-2CC8CD0DBE5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC36C6EE-48FF-4825-AD94-65EB7355530D",
+    "height": 36,
+    "width": 102,
+    "x": 1175,
+    "y": 115
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Button / Auto / Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21F88704-3947-4BFB-837A-D55173353F5E",
+      "overrideName": "5C258BF6-CCC1-468B-A025-6D9A0ABCD804_stringValue",
+      "value": "Edit Form"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3AF3A84-6BF9-4AF6-A7D3-E46A467C7FD2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "255EEB5D-0DB3-4725-94FF-998F12D4586A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

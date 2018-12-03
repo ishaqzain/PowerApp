@@ -1,0 +1,167 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AB71407F-4901-46D2-B28B-081811505B2B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC5396A0-E2D4-44FA-A286-613DD712A013",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F0569D9-5838-4667-B332-22C51817003A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84C2E337-1280-4969-BF1B-4AE631D3034C",
+    "height": 640,
+    "width": 360,
+    "x": 1152,
+    "y": 650
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8B12AF0-5F5F-4561-863E-B2165F46A9E1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AAA81D63-71DB-444B-903F-2DDEE87E80A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3863E05A-EFE8-47A2-A0FD-7AA93FDA3535"
+    },
+    {
+      "class": "text",
+      "id": "70D1CF87-EE2D-4A48-874E-A0BA16BA1C4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55711B0C-D7BD-4A59-8F82-77CDED65A5E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "686B7A2E-058B-4D49-B4A4-1D13E9095526"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E76008F1-8835-48F5-AEDB-910620EDF1E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7692C651-DAAB-498B-830C-80970E80F022"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8AEFDC0-6B58-44B9-8750-242DFB721F23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "832E5BD2-129B-444E-A23E-F5E7CE6C4F2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "298B684B-226F-4928-80CA-4758CA80FD64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ED2473F-01A3-4445-B1E2-EF24E0E24F08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47571C52-84EA-4E2F-A6F4-3BFA2C0D751C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "991BB1A6-60AE-4E60-AFEE-14F26E25C497"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C314E1AA-32EA-4F76-B2CD-66A5D6AAF589"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31BB2D17-DB0D-40F8-BC7D-4F4F26A420DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A6CC977-78A5-4E48-A946-821BA9AF9655"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E10F405-E073-4A6C-9895-BDD495BAE9F8"
+    },
+    {
+      "class": "group",
+      "id": "6F7AF533-5D29-4741-A43B-092598170B81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B29AB50-A7F9-43F9-903F-48ACD92F8540"
+    }
+  ],
+  "name": "4.7-App-Touch-Add-Sub-Form",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B04172E3-10A5-4D29-B507-380E0C705A06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "19493223-C43D-41BA-BBA9-3FA7FDAD1B35",
+    "guides": [
+    ]
+  }
+}

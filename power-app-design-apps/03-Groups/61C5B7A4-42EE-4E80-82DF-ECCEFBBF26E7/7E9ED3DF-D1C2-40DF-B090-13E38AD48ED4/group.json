@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FE3122B1-4308-441D-BB0F-A4549168FB6A",
-    "height": 144,
+    "height": 184,
     "width": 69,
     "x": 16,
-    "y": 480
+    "y": 440
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -38,6 +38,10 @@
     {
       "class": "text",
       "id": "9400F959-3C0A-4730-B3BC-9D3AB798401B"
+    },
+    {
+      "class": "text",
+      "id": "D7B38D16-84BE-44AA-A7EE-DB9FBB375D78"
     },
     {
       "class": "text",

@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Heebo-Regular",
-              "size": 14
+              "size": 16
             }
           },
-          "kerning": 0.1017433,
+          "kerning": 0.1162781,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EFFDD799-37DA-423D-B235-1059DA086FEB",
-    "height": 21,
-    "width": 195,
-    "x": 82.00000000000001,
-    "y": 410
+    "height": 24,
+    "width": 223,
+    "x": 68,
+    "y": 392
   },
-  "glyphBounds": "{{0, 4}, {194, 14}}",
+  "glyphBounds": "{{0, 5}, {222, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,10 +92,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Heebo-Regular",
-            "size": 14
+            "size": 16
           }
         },
-        "kerning": 0.1017433,
+        "kerning": 0.1162781,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2

@@ -38,27 +38,47 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "872DFE0E-C484-480B-AD3E-8D88E7B19301"
+      "id": "6A01C9B6-5D7A-4A73-9E5D-5BA2A785AF46"
     },
     {
       "class": "artboard",
-      "id": "9A89C351-28AF-4A6B-AF8A-6330413BC04A"
+      "id": "32E9135E-B7BE-43DF-AFF9-0229A1D8FCF3"
     },
     {
       "class": "artboard",
-      "id": "1575BD74-719F-4C78-BD0A-B44FCC3E918A"
+      "id": "85A658D9-8F79-4471-9CE5-0A6C8AD97B82"
     },
     {
       "class": "artboard",
-      "id": "96869636-A0EA-4787-9F2C-585B4485F13A"
+      "id": "BA522DDF-1DDA-4DA5-81F2-0E2DAD26F2AA"
     },
     {
       "class": "artboard",
-      "id": "A71A7D5C-42CB-4CE6-923F-DDB1905EC718"
+      "id": "CC5396A0-E2D4-44FA-A286-613DD712A013"
     },
     {
       "class": "artboard",
-      "id": "33EDAFBB-7AB2-4550-950B-698EF0EA4C9F"
+      "id": "5CFA5868-DFC0-4B91-9801-BE19A194FBFF"
+    },
+    {
+      "class": "artboard",
+      "id": "41E99153-C7A0-4248-B13F-791DA642FDC3"
+    },
+    {
+      "class": "artboard",
+      "id": "7A0D7051-7005-4102-8FEA-DBFA53ADA5C6"
+    },
+    {
+      "class": "artboard",
+      "id": "1A691569-AE7D-4C10-B44A-EEBDF2A1B25D"
+    },
+    {
+      "class": "artboard",
+      "id": "871FDE91-12B8-46FB-8839-AF69CF3F3DF1"
+    },
+    {
+      "class": "artboard",
+      "id": "B7BB3D42-DC96-4523-ABD9-EA0938F70006"
     }
   ],
   "layout": {
@@ -88,6 +108,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

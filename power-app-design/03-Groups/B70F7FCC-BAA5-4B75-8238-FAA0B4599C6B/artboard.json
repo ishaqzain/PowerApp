@@ -27,8 +27,8 @@
     "do_objectID": "5CF400CB-11D8-48E1-BD7F-E0B9277E2888",
     "height": 800,
     "width": 1440,
-    "x": 6843,
-    "y": 650
+    "x": 6693,
+    "y": 500
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -305,6 +305,10 @@
     {
       "class": "text",
       "id": "0257A82F-A4B9-4910-9FB1-840E31908B7F"
+    },
+    {
+      "class": "group",
+      "id": "AD2F7D47-659F-42D9-A96D-73ECE6F4CF02"
     }
   ],
   "layout": {

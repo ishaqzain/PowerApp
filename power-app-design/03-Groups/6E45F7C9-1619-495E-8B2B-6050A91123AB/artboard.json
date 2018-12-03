@@ -28,7 +28,7 @@
     "height": 800,
     "width": 1440,
     "x": 2223,
-    "y": 650
+    "y": 500
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -149,6 +149,10 @@
     {
       "class": "group",
       "id": "41DEEA4A-F943-454A-BAEF-F3718A2FF520"
+    },
+    {
+      "class": "group",
+      "id": "6C74DFF8-CE4F-40AA-89B0-54FFAADB9865"
     }
   ],
   "layout": {

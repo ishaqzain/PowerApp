@@ -28,7 +28,7 @@
     "height": 800,
     "width": 1440,
     "x": 733,
-    "y": 650
+    "y": 500
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -177,6 +177,10 @@
     {
       "class": "rectangle",
       "id": "1EFD879B-D8AE-4D60-A63D-5FB9694661AA"
+    },
+    {
+      "class": "group",
+      "id": "1F691796-5F2D-475B-9CA3-591BEDC72F8A"
     },
     {
       "class": "text",

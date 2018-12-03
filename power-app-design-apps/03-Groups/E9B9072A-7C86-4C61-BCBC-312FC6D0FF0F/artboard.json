@@ -1,0 +1,175 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3CDD0710-E773-47C8-A61F-7895BAB3CF12",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E9B9072A-7C86-4C61-BCBC-312FC6D0FF0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0AC9F5C5-06F1-49A9-BEF1-DF4500A5A98A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3ECF58D9-B20A-4A41-9E03-3C65568B5A96",
+    "height": 640,
+    "width": 361,
+    "x": 3164,
+    "y": 1341
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EDDA0C83-70D5-4148-A08C-A25E9A15DF6E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2A7B24B1-A39B-4834-8A9B-CEE9A545DFB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55D94D2A-3ED4-4EEA-82E6-EEF2A31BF508"
+    },
+    {
+      "class": "text",
+      "id": "E33813FB-773C-4B63-8B42-1C813CFF1F6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF0C7CAB-6FD1-4AD8-A714-69D8A5897CC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AA4F422-057D-4ADF-9D75-1CD6F3BABC2F"
+    },
+    {
+      "class": "group",
+      "id": "66E17E6A-0D4D-43EA-BC81-E36DA53A2FD0"
+    },
+    {
+      "class": "group",
+      "id": "500DFE3B-BB8E-4407-828C-D08969F32F19"
+    },
+    {
+      "class": "text",
+      "id": "850EFBD5-CBF6-46B3-90B6-23828817C066"
+    },
+    {
+      "class": "rectangle",
+      "id": "0459EE30-F19E-46F3-B88E-C883ED643D7A"
+    },
+    {
+      "class": "text",
+      "id": "76BC92BC-0F8E-4072-A2C0-00626BF6FB58"
+    },
+    {
+      "class": "rectangle",
+      "id": "0AE0E67F-C01F-437A-BE5E-66474540C026"
+    },
+    {
+      "class": "text",
+      "id": "D2F21026-6BDC-4A29-AC52-1DB08564F2E8"
+    },
+    {
+      "class": "rectangle",
+      "id": "D8208B7A-27E4-42E5-BA96-9E918A8A6BAA"
+    },
+    {
+      "class": "text",
+      "id": "F2575264-1225-4905-8BB2-29737067D967"
+    },
+    {
+      "class": "rectangle",
+      "id": "F36DA5BC-7DA9-48DF-8227-0AB65D8B8DA0"
+    },
+    {
+      "class": "rectangle",
+      "id": "F45D0290-667B-4308-B028-E9387787489A"
+    },
+    {
+      "class": "rectangle",
+      "id": "CBA803D2-4E9A-4046-A269-2D35AD5BC214"
+    },
+    {
+      "class": "rectangle",
+      "id": "C413B46C-4341-4F2E-81FB-8D622E63CBC2"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF2CE5DD-232E-4CAB-83D9-E32EE277552A"
+    },
+    {
+      "class": "rectangle",
+      "id": "1F561661-6E74-4DE8-BE60-FD4CBA344C63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80841E81-2E16-4AF9-BDD4-4E95F1A8DE97"
+    }
+  ],
+  "name": "3.21-App-Views-Pie-Chart",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3ECD51B-0914-447E-BFA2-DFFFEB95B6E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7F8E5F81-811D-4010-A53F-9625D04FFCBC",
+    "guides": [
+    ]
+  }
+}

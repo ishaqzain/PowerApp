@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B388A596-2C32-4C18-8557-F305E9351723",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8FF4DDF-F869-4BEC-9483-58AA24F9B27F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "460B3EFA-5969-4C26-8FD9-0E708FEA1F46",
+    "height": 36,
+    "width": 102,
+    "x": 242,
+    "y": 573
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form Elements / Button / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7C2F6D7-77F0-485A-BD43-045A03BBEF71",
+      "overrideName": "2D19E2EF-8C5E-4727-8442-ED1FACFE980E_stringValue",
+      "value": "Add Field"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9900787F-460D-4E1F-B81D-ABD92F37113E",
+      "overrideName": "57B76218-C7AF-4D68-8168-443A41C8AE38/31B8D4FD-A044-4226-89F6-1278724C5B90_layerStyle",
+      "value": "5E919877-A4C1-45B1-BBC1-B500608C7D02"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F21213E8-DE73-48B9-8311-B00FA8525288",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "472CD1ED-6721-4886-B2C2-8094E122F12C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
